@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Mauro\PycharmProjects\Mathematics\venv"
+VIRTUAL_ENV="D:\Users\Mauro\Documents\Main\Personal\Programming\Projects\Mathematics\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
